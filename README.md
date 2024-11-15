@@ -2,24 +2,24 @@
 This is a rasa based chat bot.
 Rasa is an open-source framework used to build conversational AI, such as chatbots and virtual assistants. It enables developers to create and manage natural language understanding and dialogue management systems.
 
-├── actions/                 # Python files for custom actions  
+├── actions/                             # Python files for custom actions  
 
-├── data/                    # NLU data, stories, and rules  
+├── data/                                # NLU data, stories, and rules  
 
-├── nlu.yml              # Intent and entity examples  
+├── nlu.yml                              # Intent and entity examples  
 
-├── rules.yml            # Conversation rules  
+├── rules.yml                            # Conversation rules  
 
-├── stories.yml          # Training stories  
+├── stories.yml                          # Training stories  
 
-├── domain.yml               # Bot's domain (intents, entities, slots, responses)   
+├── domain.yml                           # Bot's domain (intents, entities, slots, responses)   
 
-├── config.yml               # Rasa pipeline and policies configuration  
+├── config.yml                           # Rasa pipeline and policies configuration  
 
-├── credentials.yml          # Connector configurations  
+├── credentials.yml                      # Connector configurations  
 
-├── endpoints.yml            # Custom action server endpoints  
+├── endpoints.yml                        # Custom action server endpoints  
 
-├── tests/                   # Automated conversation tests  
+├── tests/                                # Automated conversation tests  
 
-└── README.md                # Project documentation
+└── README.md                              # Project documentation
