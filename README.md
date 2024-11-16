@@ -18,7 +18,7 @@ Rasa is an open-source framework used to build conversational AI, such as chatbo
 
 ├── credentials.yml                      # Connector configurations  
 
-├── endpoints.yml                        # Custom action server endpoints  
+├── endpoints.yml                        # Custom action server endpoints 
 
 ├── tests/                                # Automated conversation tests  
 
