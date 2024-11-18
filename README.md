@@ -8,7 +8,7 @@ Rasa is an open-source framework used to build conversational AI, such as chatbo
 
 ├── nlu.yml                              # Intent and entity examples  
 
-├── rules.yml                            # Conversation rules  
+├── rules.yml                            # Conversation rules
 
 ├── stories.yml                          # Training stories  
 
